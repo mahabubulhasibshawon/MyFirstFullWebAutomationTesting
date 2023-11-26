@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-15T10:03:07 BDT" name="Default suite" finished-at="2023-11-15T10:03:09 BDT" duration-ms="2273">
+  <suite started-at="2023-11-26T12:04:53 BDT" name="Default suite" finished-at="2023-11-26T12:04:56 BDT" duration-ms="3685">
     <groups>
     </groups>
-    <test started-at="2023-11-15T10:03:07 BDT" name="Default test" finished-at="2023-11-15T10:03:09 BDT" duration-ms="2273">
-      <class name="testCases.testDriver">
-        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testCases.testDriver@3e2055d6]" started-at="2023-11-15T10:03:00 BDT" name="setBrowser" finished-at="2023-11-15T10:03:07 BDT" duration-ms="6786" status="PASS">
+    <test started-at="2023-11-26T12:04:53 BDT" name="Default test" finished-at="2023-11-26T12:04:56 BDT" duration-ms="3685">
+      <class name="testCases.testResigtration">
+        <test-method is-config="true" signature="setBrowser()[pri:0, instance:testCases.testResigtration@3e2055d6]" started-at="2023-11-26T12:04:50 BDT" name="setBrowser" finished-at="2023-11-26T12:04:53 BDT" duration-ms="2497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBrowser -->
-        <test-method signature="testHomePageTitle()[pri:0, instance:testCases.testDriver@3e2055d6]" started-at="2023-11-15T10:03:07 BDT" name="testHomePageTitle" finished-at="2023-11-15T10:03:09 BDT" duration-ms="2205" status="PASS">
+        <test-method signature="testUserRegistrationProcess()[pri:0, instance:testCases.testResigtration@3e2055d6]" started-at="2023-11-26T12:04:53 BDT" name="testUserRegistrationProcess" finished-at="2023-11-26T12:04:56 BDT" duration-ms="3647" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testHomePageTitle -->
-        <test-method is-config="true" signature="quiteBrowser()[pri:0, instance:testCases.testDriver@3e2055d6]" started-at="2023-11-15T10:03:09 BDT" name="quiteBrowser" finished-at="2023-11-15T10:03:10 BDT" duration-ms="752" status="PASS">
+        </test-method> <!-- testUserRegistrationProcess -->
+        <test-method is-config="true" signature="quiteBrowser()[pri:0, instance:testCases.testResigtration@3e2055d6]" started-at="2023-11-26T12:04:56 BDT" name="quiteBrowser" finished-at="2023-11-26T12:04:57 BDT" duration-ms="660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quiteBrowser -->
-      </class> <!-- testCases.testDriver -->
+      </class> <!-- testCases.testResigtration -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
